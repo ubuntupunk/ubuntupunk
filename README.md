@@ -19,7 +19,9 @@
   <a href="https://twitter.com/ubuntupunk" target="_blank">
     <img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
   </a>
-  
+  <a href="https://www.facebook.com/profile.php?id=davidrobertlewis" target="_blank">
+    <img align="left" alt="Facebook" width="32px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
+  </a>
 <br />
 <br />
 <br />
