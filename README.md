@@ -1,6 +1,11 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm ubuntupunk</h1>
 <h3 align="center">
+  <br />
+  <br />
+  <div>
+    <a href="https://github.com/ubuntupunk?tab=followers"><img src="https://img.shields.io/github/followers/ubuntupunk?label=Followers&style=social" alt="GitHub Badge"></a>
+  </div>
 
 ### 
 
