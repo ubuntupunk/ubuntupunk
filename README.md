@@ -11,7 +11,7 @@
 
 
 - 🌱 I’m currently learning everything
-- :cow: I'm currently working on server-side admin
+- :cow: I'm currently working on server-side admin, wordpress development
 - 👯 I’m looking to collaborate on raspberry pi based mesh networks
 - 🤔 I’m looking for help with mesh networks
 - 💬 Ask me about ubuntu linux
