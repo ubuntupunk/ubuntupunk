@@ -28,6 +28,9 @@
 
 ### Software and Tools
 <p align="left">
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img align="left" alt="Bash logo"  width="28px" src="https://img.icons8.com/plasticine/100/000000/bash.png"/>
+  </a>
   <a href="https://neovim.io/" target="_blank">
     <img align="left" alt="Neovim" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png" />
   </a>
@@ -40,6 +43,8 @@
   <a href="https://sw.kovidgoyal.net/kitty/" target="_blank">
     <img align="left" alt="Kitty terminal" width="28px" src="https://img.icons8.com/color/48/000000/kitty.png" />
   </a>
+  <a href="https://ubuntu.com/"  target="_blank">
+  <img align="left" alt="Ubuntu logo" width="28px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
   </p>
 
 <br />
