@@ -40,11 +40,11 @@
   <a href="https://neovim.io/" target="_blank">
     <img align="left" alt="Neovim" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png" />
   </a>
-<a href="https://www.python.org/" target="_blank">
-    <img align="left" alt="Python" width="28px" src="https://img.icons8.com/color/48/000000/python.png" />
-  </a>
 <a href="https://nodejs.org/en/" target="_blank">
     <img align="left" alt="Node.js" width="28px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img align="left" alt="Python" width="28px" src="https://img.icons8.com/color/48/000000/python.png" />
   </a>
   <a href="https://sw.kovidgoyal.net/kitty/" target="_blank">
     <img align="left" alt="Kitty terminal" width="28px" src="https://img.icons8.com/color/48/000000/kitty.png" />
