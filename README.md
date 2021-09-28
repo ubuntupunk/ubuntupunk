@@ -34,6 +34,9 @@
   <a href="https://www.w3schools.com/html/"  target="_blank">
     <img align="left" alt="Html5 logo"  width="28px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   </a>
+  <a href="https://www.linuxfoundation.org"  target="_blank">
+  <img align="left" alt="Tux logo" width="28px" src="https://img.icons8.com/color/48/000000/linux--v2.png"/>
+  </a>
   <a href="https://neovim.io/" target="_blank">
     <img align="left" alt="Neovim" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png" />
   </a>
