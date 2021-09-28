@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning everything
 - :cow: I'm currently working on server-side admin, wordpress development
 - 👯 I’m looking to collaborate on raspberry pi based mesh networks
-- 🤔 I’m looking for help with mesh networks
+- 🤔 I’m looking for help with mesh networks, headless wordpress
 - 💬 Ask me about ubuntu linux
 - 📫 How to reach me: <p align="left">
   <a href="https://twitter.com/ubuntupunk" target="_blank">
