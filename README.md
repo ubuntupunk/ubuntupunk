@@ -52,8 +52,15 @@
   <a href="https://sw.kovidgoyal.net/kitty/" target="_blank">
     <img align="left" alt="Kitty terminal" width="28px" src="https://img.icons8.com/color/48/000000/kitty.png" />
   </a>
+  <a href="https://www.php.net" target="_blank">
+  <img align="left" alt="php logo" width="28px" src="https://img.icons8.com/color/48/000000/php.png"/>
+  </a>
   <a href="https://ubuntu.com/"  target="_blank">
   <img align="left" alt="Ubuntu logo" width="28px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
+  </a>
+  <a href="https://wordpress.com/"  target="_blank">
+  <img align="left" alt="Wordpress logo" width="28px"src="https://img.icons8.com/nolan/64/wordpress.png"/>
+  </a>
   </p>
 
 <br />
