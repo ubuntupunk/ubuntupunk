@@ -31,6 +31,9 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank">
   <img align="left" alt="Bash logo"  width="28px" src="https://img.icons8.com/plasticine/100/000000/bash.png"/>
   </a>
+  <a href="https://www.w3schools.com/html/"  target="_blank">
+    <img align="left" alt="Html5 logo"  width="28px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  </a>
   <a href="https://neovim.io/" target="_blank">
     <img align="left" alt="Neovim" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png" />
   </a>
