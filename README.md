@@ -68,6 +68,16 @@
 
 <br />
 <br />
+  
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+PHP          2 hrs 23 mins   ██████████████░░░░░░░░░░░   56.33 % 
+MySQL   56 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.26 % 
+TypeScript   54 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.20 % 
+```
+<!--END_SECTION:waka-->
+
 <br />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ubuntupunk&theme=tokyonight)](https://git.io/streak-stats)
