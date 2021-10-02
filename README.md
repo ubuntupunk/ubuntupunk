@@ -15,17 +15,22 @@
 - :cow: I'm currently working on server-side admin, wordpress development
 - 👯 I’m looking to collaborate on raspberry pi based mesh networks
 - 🤔 I’m looking for help with mesh networks, headless wordpress
-- 💬 Ask me about ubuntu linux
-- 📫 How to reach me: <p align="left">
-  <a href="https://twitter.com/ubuntupunk" target="_blank">
-    <img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=davidrobertlewis" target="_blank">
-    <img align="left" alt="Facebook" width="32px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
-  </a>
-<br />
-<br />
-<br />
+- 💬 Ask me about ubuntu linux <p align="left">
+ 
+  <!-- Actual text -->
+
+- You can find me on [![Twitter][1.2]][1], or on [![Facebook][2.2]][2].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://img.icons8.com/material-rounded/24/000000/facebook-new.png (facebook icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/ubuntupunk"
+[2]: https://www.facebook.com/profile.php?id=davidrobertlewis
+ 
 
 ### Software and Tools
 <p align="left">
