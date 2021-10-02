@@ -28,7 +28,7 @@
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/ubuntupunk"
+[1]: https://twitter.com/ubuntupunk
 [2]: https://www.facebook.com/profile.php?id=davidrobertlewis
  
 
