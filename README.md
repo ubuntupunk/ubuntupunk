@@ -4,12 +4,14 @@
   <br />
   <br />
   <div>
-    <a href="https://github.com/ubuntupunk?tab=followers"><img src="https://img.shields.io/github/followers/ubuntupunk?label=Followers&style=social" alt="GitHub Badge"></a>
+    <a href="https://github.com/ubuntupunk?tab=followers">
+      </div>
+      <img src="https://img.shields.io/github/followers/ubuntupunk?label=Followers&style=social" alt="GitHub Badge"></a>
   </div>
 
 ### 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=ubuntpunk&left_color=green&right_color=red)
-
+<img src="https://raw.githubusercontent.com/ubuntupunk/ubuntupunk/master/code.gif" width=500px>
 - 🌱 I’m currently learning everything
 - :cow: I'm currently working on server-side admin, wordpress development
 - 👯 I’m looking to collaborate on raspberry pi based mesh networks
