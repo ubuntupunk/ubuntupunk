@@ -1,12 +1,20 @@
-name: InstaCurl
+name: Curl PNG
 
-on: [push, workflow_dispatch]
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  
+  workflow_dispatch:
 
 jobs:
-  curl:
+  run_tests:
     runs-on: ubuntu-latest
     steps:
-    - name: curl
-      uses: sozo-design/curl@v1.0.2
+    - name: add icon
+      run:  curl https://www.picuki.com/profile/surfemporium > photo.png
+    - uses: actions/upload-artifact@v2
       with:
-        args: https://www.picuki.com/profile/the_commons_muizenberg/
+        name: my-artifact
+        path: photo.png
