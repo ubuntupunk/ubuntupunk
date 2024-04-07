@@ -7,6 +7,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: curl
-      uses: wei/curl@v1.1.1
+      uses: sozo-design/curl@v1.0.2
       with:
         args: https://www.picuki.com/profile/the_commons_muizenberg/
