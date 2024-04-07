@@ -74,6 +74,8 @@
 
 <br />
 <br />
+
+<a href="https://app.daily.dev/ubuntupunk"><img src="./devcard.png" width="356" alt="davdev's Dev Card"/></a>
   
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
