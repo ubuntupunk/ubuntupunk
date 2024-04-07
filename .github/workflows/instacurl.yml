@@ -9,4 +9,4 @@ jobs:
     - name: curl
       uses: sozo-design/curl@v1.0.2
       with:
-        args: https://www.picuki.com/profile/the_commons_muizenberg/get
+        args: https://www.picuki.com/profile/the_commons_muizenberg/
