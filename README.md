@@ -14,9 +14,9 @@
 <img src="https://raw.githubusercontent.com/ubuntupunk/ubuntupunk/master/code.gif" width=500px>
 
 - 🌱 I’m currently learning everything
-- :cow: I'm currently working on server-side admin, wordpress development
-- 👯 I’m looking to collaborate on raspberry pi based mesh networks
-- 🤔 I’m looking for help with mesh networks, headless wordpress
+- :cow: I'm currently working on privacy as a service (PaaS), i18n localisation, gpg apps
+- 👯 I’m looking to collaborate on localisation
+- 🤔 I’m looking for help with startup scene in South Africa
 - 💬 Ask me about ubuntu linux <p align="left">
  
   <!-- Actual text -->
