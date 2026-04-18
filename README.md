@@ -98,4 +98,6 @@ No Activity tracked this Week
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubuntupunk)](https://github.com/anuraghazra/github-readme-stats)
 <h3>Welcome to Muizenberg, Cape Town, South Africa <img src="https://img.icons8.com/emoji/48/000000/south-africa-emoji.png"/> </h3> 
   
-
+<a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/ZA.svg" alt="made in za">
+</a>
